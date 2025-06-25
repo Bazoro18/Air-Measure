@@ -11,3 +11,6 @@ tsconfig.json
 .eslintrc.js
 .prettierrc.js
 .watchmanconfig
+android/app/build/
+*.apk
+*.so
