@@ -26,6 +26,7 @@ export default function HomeDashboard({ navigation }) {
 
   const handleNewProject = () => {
     console.log('Starting new project...');
+    navigation.navigate('CameraCaptureScreen');
     // navigation.navigate('CreateProject');
   };
 
