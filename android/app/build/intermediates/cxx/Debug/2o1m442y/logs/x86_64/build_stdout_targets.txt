@@ -1,0 +1,52 @@
+ninja: Entering directory `D:\AirMeasure\AirMeasure\android\app\.cxx\Debug\2o1m442y\x86_64'
+[0/2] Re-checking globbed directories...
+[1/50] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp.o
+[2/50] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/States.cpp.o
+[3/50] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/EventEmitters.cpp.o
+[4/50] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o
+[5/50] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/bac033cd950586cef66695376748dd33/rngesturehandler_codegenJSI-generated.cpp.o
+[6/50] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp.o
+[7/50] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ComponentDescriptors.cpp.o
+[8/50] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o
+[9/50] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/rnreanimated-generated.cpp.o
+[10/50] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/Props.cpp.o
+[11/50] Building CXX object CMakeFiles/appmodules.dir/OnLoad.cpp.o
+[12/50] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o
+[13/50] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o
+[14/50] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/States.cpp.o
+[15/50] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ShadowNodes.cpp.o
+[16/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/42d0e5ac896207e6a7039103757f8810/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o
+[17/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7588f68917e62a51941c072171c240b8/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o
+[18/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4309547d73735607d32ea17237cbd474/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o
+[19/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e94d3f59777025911844a9388d2b8f26/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o
+[20/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6db6c16e80f4208840298ca7b8e7b949/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o
+[21/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/42d0e5ac896207e6a7039103757f8810/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o
+[22/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7588f68917e62a51941c072171c240b8/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o
+[23/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8dd1e3873a63fa417a3ae465c1232595/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+[24/50] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e754448561df711fcdd6e05a11cf7709/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o
+[25/50] Linking CXX shared library D:\AirMeasure\AirMeasure\android\app\build\intermediates\cxx\Debug\2o1m442y\obj\x86_64\libreact_codegen_safeareacontext.so
+[26/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/4c9242ba2e077b819972698bfc400134/common/cpp/react/renderer/components/rnscreens/RNSFullWindowOverlayShadowNode.cpp.o
+[27/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/4c9242ba2e077b819972698bfc400134/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp.o
+[28/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/4c9242ba2e077b819972698bfc400134/common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderConfigState.cpp.o
+[29/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/605d07977e0a1d6746990aefae9b655f/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderConfigShadowNode.cpp.o
+[30/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/605d07977e0a1d6746990aefae9b655f/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderSubviewShadowNode.cpp.o
+[31/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/4c9242ba2e077b819972698bfc400134/common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderSubviewState.cpp.o
+[32/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/4c9242ba2e077b819972698bfc400134/common/cpp/react/renderer/components/rnscreens/RNSModalScreenShadowNode.cpp.o
+[33/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/4c9242ba2e077b819972698bfc400134/common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp.o
+[34/50] Building CXX object CMakeFiles/appmodules.dir/D_/AirMeasure/AirMeasure/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+[35/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/e2188e7113242514e5a205e33de1a66d/build/generated/source/codegen/jni/react/renderer/components/rnscreens/States.cpp.o
+[36/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/17fccf53253b016166a36bf7455fe9ab/generated/source/codegen/jni/react/renderer/components/rnscreens/ShadowNodes.cpp.o
+[37/50] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o
+[38/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/e2188e7113242514e5a205e33de1a66d/build/generated/source/codegen/jni/react/renderer/components/rnscreens/Props.cpp.o
+[39/50] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o
+[40/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/rnscreens.cpp.o
+[41/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f315aa4797326726adec18ec15407bc2/source/codegen/jni/react/renderer/components/rnscreens/rnscreensJSI-generated.cpp.o
+[42/50] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o
+[43/50] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o
+[44/50] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o
+[45/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f315aa4797326726adec18ec15407bc2/source/codegen/jni/react/renderer/components/rnscreens/ComponentDescriptors.cpp.o
+[46/50] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o
+[47/50] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/17fccf53253b016166a36bf7455fe9ab/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp.o
+[48/50] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o
+[49/50] Linking CXX shared library D:\AirMeasure\AirMeasure\android\app\build\intermediates\cxx\Debug\2o1m442y\obj\x86_64\libreact_codegen_rnscreens.so
+[50/50] Linking CXX shared library D:\AirMeasure\AirMeasure\android\app\build\intermediates\cxx\Debug\2o1m442y\obj\x86_64\libappmodules.so
