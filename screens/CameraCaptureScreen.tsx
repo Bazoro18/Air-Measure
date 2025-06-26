@@ -28,7 +28,7 @@ setHasPermission(status === 'granted');
       if (cameraRef.current) {
         const photo = await cameraRef.current.takePhoto({ flash: 'off' });
         console.log('Photo path:', photo.path);
-        navigation.goBack();
+        navigation.navigate('MeasurementView', { photoPath: photo.path });
       }
     } catch (err) {
       console.error('Failed to take picture:', err);
